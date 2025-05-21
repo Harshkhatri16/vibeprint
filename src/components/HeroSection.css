@@ -1,0 +1,9 @@
+.model-card:hover {
+
+    transition: background-color 0.4s ease;
+  }
+  
+  .model-card:hover .model-img {
+    transform: scale(1.3);
+  }
+  
