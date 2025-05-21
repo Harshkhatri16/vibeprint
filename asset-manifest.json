@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vibeprint/static/css/main.f107fe9a.css",
+    "main.js": "/vibeprint/static/js/main.dac0f805.js",
+    "static/media/model1.png": "/vibeprint/static/media/model1.08b83dd877256f663e1d.png",
+    "static/media/model2.png": "/vibeprint/static/media/model2.08b83dd877256f663e1d.png",
+    "static/media/model3.png": "/vibeprint/static/media/model3.08b83dd877256f663e1d.png",
+    "static/media/model4.png": "/vibeprint/static/media/model4.08b83dd877256f663e1d.png",
+    "static/media/model5.png": "/vibeprint/static/media/model5.08b83dd877256f663e1d.png",
+    "index.html": "/vibeprint/index.html",
+    "main.f107fe9a.css.map": "/vibeprint/static/css/main.f107fe9a.css.map",
+    "main.dac0f805.js.map": "/vibeprint/static/js/main.dac0f805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f107fe9a.css",
+    "static/js/main.dac0f805.js"
+  ]
+}
