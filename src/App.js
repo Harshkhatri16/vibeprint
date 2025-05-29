@@ -8,9 +8,9 @@ import Designer from "./pages/Designer";
 
 function App() {
   return (
-    <Router basename="vibeprint">
+    <Router >
       
-      <Routes>
+      <Routes basename="vibeprint">
         <Route path="/" element={<Home />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/designer" element={<Designer />} />
