@@ -8,7 +8,7 @@ import Designer from "./pages/Designer";
 
 function App() {
   return (
-    <Router>
+    <Router basename="vibeprint">
       
       <Routes>
         <Route path="/" element={<Home />} />
